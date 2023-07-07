@@ -1,6 +1,6 @@
 # QuoteGenerator ✍️
 
-Get random quote.
+Generate random quotes.
 <br/>
 [Contact](mailto:dogukanurker@icloud.com)<br/>
 [Dogukan Urker](https://dogukanurker.com)
