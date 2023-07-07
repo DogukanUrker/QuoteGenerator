@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import "./app.css";
+
 function refreshPage() {
-  window.location.reload(false);
+  window.location.reload();
 }
+
 function App() {
   const [quote, setQuote] = useState(null);
   const [author, setAuthor] = useState(null);
